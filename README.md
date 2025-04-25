@@ -14,6 +14,9 @@ el mantenimiento de las aeronaves se basa en horas de vuelo, lo que significa qu
 
 
 ## 3. PROPUESTA DE SOLUCIÓN CON IA
+**objetivo de la solución**
+- optimizar proceso inicial del mantenimiento aeronautico y brindar una mano la seguridad operacional de la aviación general
+
 
 
 ## 4. COMPARATIVA ENTRE PROCESOS
